@@ -78,7 +78,7 @@ Pathfinding-Ball-PPO/
 
 ## Demo Video
 For a visual overview of the project, watch the screen recording:  
-**[2024-11-23 080824.mp4](./Computer%20Science%20BScScreen%20Recording%202024-11-23%20080824.mp4)**
+**[MY_Project_video](https://unidebhu-my.sharepoint.com/personal/sadman_mailbox_unideb_hu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsadman%5Fmailbox%5Funideb%5Fhu%2FDocuments%2FMell%C3%A9kletek%2FScreen%20Recording%202024%2D11%2D23%20080824%2Emp4&ct=1733649003075&or=OWA%2DNT%2DMail&cid=7ce70e3d%2De5ec%2D1008%2Dc080%2D2d306e48b005&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db602aa%2D6805%2D4daf%2Dbc91%2D17cfcc792704)**
 
 ---
 
